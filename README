@@ -1,0 +1,25 @@
+Four sprint ceremonies - Sprint Plan, Daily Scrum, Sprint Review Sprint Retrospective
+
+Sprint Plan:
+-Structure
+Attended by entire scrum team to define high priority work. Scrum Master should facilitate. Product owner answers all questions from dev to help them determine the amount of time each item will take. Max - 8 hours.
+- Outputs
+Sprint Goal and Story Points to each story
+
+Daily Scrum:
+-Structure
+Attended by dev team--with product manager and scrum master optional. Dev team discusses progress towards sprint goal. Max 15 minutes.
+-Outputs
+Assigned/reassigned stories, changes made to story status, requests for assistance
+
+Sprint Review
+-Structure
+Attended by scrum team and product owner (and other stakeholders). Discuss and demonstrate tasks completed during sprint. Adapt backlog based on outcomes of review. Max 4 hours.
+-Ouputs
+Released features and backlog items added based on review.
+
+Sprint Retrospective
+-Structure 
+Attended by entire scrum team. Discussions of what went right during the sprint and what went wrong. Max 45 minutes for each week of sprint.
+-Outputs
+What was learned about the team mambers, not product, during the sprint. Information to make the other ceremonies operate more efficiently. 
